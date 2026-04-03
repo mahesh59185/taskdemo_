@@ -8,6 +8,7 @@ Start — create an empty list to_do_list = [].<br>
 
 Loop — begin an infinite loop to keep the menu running until the user quits.<br>
 
+
 Show menu — print the TO-DO-LIST menu with options: Add (1), Remove (2), Show (3), Quit (4).<br>
 
 Read choice — read user input for decision. Try to convert to integer; if conversion fails, print "enter a valid decision" and go back to step 3.<br>
